@@ -4,9 +4,9 @@ This application is to calculate the BMI. Body mass index (BMI) is a measure of 
 
 Steps:
 
-    Clone this repo: https://github.com/AidaSira/DataProducts
-    Start R session or launch R studio
-    Set the working directory where you cloned the repository using setwd()
-    Load the library: library(shiny)
-    Run the application: runApp()
-    This application will be opened in your browser. 
+1. Clone this repo: https://github.com/AidaSira/DataProducts
+2. Start R session or launch R studio
+3. Set the working directory where you cloned the repository using setwd()
+4. Load the library: library(shiny)
+5. Run the application: runApp()
+6. This application will be opened in your browser. 
