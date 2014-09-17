@@ -12,3 +12,6 @@ Other way to run it in case the link does not work:
 4. Load the library: library(shiny)
 5. Run the application: runApp()
 6. This application will be opened in your browser. 
+
+
+The link to the Rpubs presentation is: http://rpubs.com/aidasira/28822
