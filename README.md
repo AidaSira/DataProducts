@@ -14,4 +14,4 @@ Other way to run it in case the link does not work:
 6. This application will be opened in your browser. 
 
 
-The link to the Rpubs presentation is: http://rpubs.com/aidasira/28822
+The link to the Rpubs presentation created with RStudio Presenter is: http://rpubs.com/aidasira/28822
